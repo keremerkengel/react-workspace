@@ -1,14 +1,13 @@
 
 import './App.css'
-import RegisterModal from './RegisterModal'
-
+import Hello from './Hello'
 
 function App() {
-  
+
 
   return (
     <>
-    <RegisterModal />
+      <Hello />
     </>
   )
 }
